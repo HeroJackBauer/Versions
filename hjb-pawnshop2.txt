@@ -1,2 +1,2 @@
-Please read the change log located in the README folder once downloaded.
+Please read the change log located in the README folder once downloaded Renamed to hjb-shops.
 This will tell you what changes have been made on what files have been updated.
